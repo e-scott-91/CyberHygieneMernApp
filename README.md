@@ -1,3 +1,7 @@
+Part of my finaly year project for my BSc in Computer Science.
+
+The full stack (MERN) application allowed a user to input their knowledge level, their free time and their financial commitment along with the technology devices that they use at home and the application uses an optimisation algorithm to determine the optimal cyber hygiene practices that they should use (based on the previous information).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
